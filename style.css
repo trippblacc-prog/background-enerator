@@ -1,0 +1,23 @@
+*{
+	margin:0;
+}
+
+body{
+	text-align:center;
+	font-family:'Raleway', sans-serif;
+	margin:3vh;
+	background:linear-gradient(to right, white, purple);
+}
+
+h1{
+	font-family:'Raleway', sans-serif;
+	font-size:7vw;
+	letter-spacing:0.5em;
+	margin:2vh;
+}
+
+h2{
+	font-family:'Raleway', sans-serif;
+	letter-spacing:0.2em;
+	margin:2vh;
+}
